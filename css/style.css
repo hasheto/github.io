@@ -24,8 +24,8 @@ header ul {
 	font-size: 16px;
 	margin-top: 15px;
 	margin-left: 10px;
-	margin-bottom: 0px;
-	border: 1px #999966 solid;
+	margin-bottom: 24px;
+	border: 1px #ccccff solid;
 }
 
  /*header*/
@@ -165,7 +165,7 @@ article#main-col {
 	width: 80%;
 	margin-left: 15px;
 	margin-top: 15px;
-	border: 1px #999966 solid
+	border: 2px #ccccff solid
 }
 
 /*pictures*/
